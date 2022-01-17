@@ -7,7 +7,7 @@ Use this same strategy to remove the single quote marks (<code>'</code>), the ri
     Solution
   </summary>
   
-<ul>
+<ol>
   <li> <code>value.replace("'", "")</code></li>
   <li> <code>value.replace("]", "")</code></li>
   <li> <code>value.replace(" ", "")</code> You should now have a list of items separated by semi-colons (<code>;</code>).</li>
