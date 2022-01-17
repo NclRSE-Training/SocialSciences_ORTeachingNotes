@@ -5,4 +5,4 @@
 1. Notice that there are several checkboxes in this facet: <code>Numeric</code>, <code>Non-numeric</code>, <code>Blank</code>, and <code>Error</code>. Below these checkboxes are counts of the number of cells in each category. You should see checks for <code>Non-numeric</code> and <code>Blank</code> if you changed some values.
 1. Experiment with checking or unchecking these boxes to select subsets of your data.
 
-[Episode 4 Exercise 3](episode4_ex3.md)
+[Episode 4 Key Points](episode4_key.md)
