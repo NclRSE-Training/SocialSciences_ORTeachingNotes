@@ -1,6 +1,6 @@
 ## Exercise
 
-Sort the data by gps_Altitude. Do you think the first few entries may have incorrect altitudes?.
+Sort the data by <code>gps_Altitude</code>. Do you think the first few entries may have incorrect altitudes?.
 
 <details>
   <summary>
