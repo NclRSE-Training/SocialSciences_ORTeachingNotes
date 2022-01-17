@@ -5,7 +5,7 @@ Perform the same clean up steps and customized text faceting for the months_lack
     Solution
   </summary>
 
-  All four cleaning steps can be performed by combining .replace statements. The command is: value.replace("[", "").replace("]", "").replace(" ", "").replace("'", "") This can also be done in four separate steps if preferred. November was the most common month for respondents to lack food.
+  All four cleaning steps can be performed by combining <code>.replace</code> statements. The command is: <code>value.replace("[", "").replace("]", "").replace(" ", "").replace("'", "")</code> This can also be done in four separate steps if preferred. November was the most common month for respondents to lack food.
 
   </details>
   
