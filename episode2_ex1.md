@@ -17,4 +17,4 @@
   </details>
 
 
-[Episode 2 exercise 2](episode2_ex2.md)
+  [Episode 2 exercise 2](episode2_ex2.md)
