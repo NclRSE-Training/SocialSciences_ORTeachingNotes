@@ -7,7 +7,7 @@ Transform three more columns, <code>no_members</code>, <code>years_liv</code>, a
     Solution
   </summary>
 
-    Only observations that include only numerals (0-9) can be transformed to numbers. If you apply a number transformation to a column that doesn’t meet this criteria, and then click the <code>Undo / Redo</code> tab, you will see a step that starts with <code>Text transform on 0 cells</code>. This means that the data in that column was not transformed.
+Only observations that include only numerals (0-9) can be transformed to numbers. If you apply a number transformation to a column that doesn’t meet this criteria, and then click the <code>Undo / Redo</code> tab, you will see a step that starts with <code>Text transform on 0 cells</code>. This means that the data in that column was not transformed.
 
   </details>
   
