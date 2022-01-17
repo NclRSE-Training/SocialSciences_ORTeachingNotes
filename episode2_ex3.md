@@ -11,4 +11,4 @@ Which two items are the most commonly owned? Which are the two least commonly ow
 
   </details>
   
-[Episode 2 Exercise 4](expisode2_ex4.md)
+[Episode 2 Exercise 4](episode2_ex4.md)
