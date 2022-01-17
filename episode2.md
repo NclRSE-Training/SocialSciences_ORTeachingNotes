@@ -1,5 +1,4 @@
- 
- ## Objectives
+## Objectives
 
 - Create a new OpenRefine project from a CSV file.
 - Understand potential problems with file headers.
