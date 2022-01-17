@@ -8,3 +8,4 @@
 - Employ drop-downs to remove white spaces from cells.
 - Manipulate data using previous steps with undo/redo.
 
+[Episode 2 Exercises](episode2_ex1.md)
