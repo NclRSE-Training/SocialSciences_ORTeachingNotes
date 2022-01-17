@@ -7,12 +7,13 @@
 
 <details>
   <summary>
-    Solution
+Solution
   </summary>
 
   <p>
     For the column <code>interview_date</code> do <code>Facet > Text facet</code>. A box will appear in the left panel showing that there are 19 unique entries in this column. By default, the column <code>interview_date</code> is formatted as Text. You can change the format by doing <code>Edit cells > Common transforms > To date</code>. Notice the the values in the column turn green. Doing <code>Facet > Timeline facet</code> creates a box in the left panel that shows a histogram of the number of entries for each date.
-
+<p>
+  
   Most of the data was collected in November of 2016.
   </details>
 
