@@ -1,4 +1,4 @@
-
+# Exercise 1
 
 1. Using faceting, find out how many different interview_date values there are in the survey results.
 1. Is the column formatted as Text or Date?
