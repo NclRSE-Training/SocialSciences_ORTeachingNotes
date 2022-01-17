@@ -5,4 +5,4 @@
 - Clustering in OpenRefine can help to identify different values that might mean the same thing.
 - OpenRefine can transform the values of a column.
 
-[Episode 3 Exercise 1](episode3_ex1.md)
+[Episode 3](episode3.md)
